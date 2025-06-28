@@ -35,8 +35,8 @@ Open to collaborations, new challenges, and projects that combine code with purp
 
 - 📧 Email: elisheva2005z@gmail.com  
 - 📞 Phone: ‎+972-55-6782235  
-- 💼 LinkedIn: [Insert your LinkedIn profile link here]  
-- 🌐 Portfolio/Projects: [Insert your portfolio link if available]
+- 💼 LinkedIn: 
+
 
 ---
 
